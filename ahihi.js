@@ -5,3 +5,5 @@ const age = 17;
 const school = "Truong dai hoc bach khoa ha noi";
 
 const father = "Truong Van Thuc";
+
+const mother = "Chu Thi Ha";
